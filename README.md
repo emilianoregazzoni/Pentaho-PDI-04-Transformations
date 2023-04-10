@@ -20,6 +20,22 @@ In my first step I want to load the information from excels files into the datab
 ![image](https://user-images.githubusercontent.com/20979227/230802312-7f4ece20-1d01-41a8-a0c9-64f6ccef31e8.png)
 
 Double click to config the step:
+I need to specify the route of the excel, in this case I will load the Accounting plan information.
 
 ![image](https://user-images.githubusercontent.com/20979227/230802419-56fc3629-077c-4020-aca6-a8bad7b87a7c.png)
 
+Load the excel page:
+
+![image](https://user-images.githubusercontent.com/20979227/230802508-21455c1d-254a-4b1f-bf73-298960d5ae5f.png)
+
+After that I should specify that the file contains the headers, so I check "Header"
+
+![image](https://user-images.githubusercontent.com/20979227/230802563-4d5a1bb0-3e6f-4a07-9ced-e9f02833e970.png)
+
+Then if I search on "Fields" sheet I can see the headers of the file:
+
+![image](https://user-images.githubusercontent.com/20979227/230802578-0cdcfebd-00e9-4fba-9ff5-e60c13dbf097.png)
+
+And then if I click on "Preview rows" button I see the information from the excel:
+
+![image](https://user-images.githubusercontent.com/20979227/230802617-32ba4cb2-f699-43ee-b0cb-3690b16b5ff2.png)
