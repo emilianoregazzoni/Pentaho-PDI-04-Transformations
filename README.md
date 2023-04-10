@@ -39,3 +39,8 @@ Then if I search on "Fields" sheet I can see the headers of the file:
 And then if I click on "Preview rows" button I see the information from the excel:
 
 ![image](https://user-images.githubusercontent.com/20979227/230802617-32ba4cb2-f699-43ee-b0cb-3690b16b5ff2.png)
+
+The information:
+
+![image](https://user-images.githubusercontent.com/20979227/230802692-d1027053-c848-4faf-a33d-0302a8b94bf7.png)
+
