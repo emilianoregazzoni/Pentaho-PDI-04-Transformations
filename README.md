@@ -44,7 +44,7 @@ The information:
 
 ![image](https://user-images.githubusercontent.com/20979227/230802692-d1027053-c848-4faf-a33d-0302a8b94bf7.png)
 
-Once I finished I need to create an incremental ID for the each item in the "Plan de cuentas", for do this, I will need to add a component Secuence.
+Once I finished I need to create an incremental ID for the each item in the "Plan de cuentas", to do this, I will need to add a component Secuence.
 
 ![image](https://user-images.githubusercontent.com/20979227/231904660-4c51a141-4f38-46ed-81c5-91f89b8b5009.png)
 
