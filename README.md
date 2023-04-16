@@ -15,45 +15,9 @@ After review the script I should go to Postgres admin (PG admin), paste the code
 
 ![image](https://user-images.githubusercontent.com/20979227/230801956-f2c66527-e755-4928-b787-e9af0fa88bcb.png)
 
-In my first step I want to load the information from excels files into the database previosuly created. For this, I need to create a first step to load an excel file that some transformations later will be in the database system.
+In the repository is all the transformations in Pentaho. 
 
-![image](https://user-images.githubusercontent.com/20979227/230802312-7f4ece20-1d01-41a8-a0c9-64f6ccef31e8.png)
+Here I post some pictures about the final ETL jobs.
 
-Double click to config the step:
-I need to specify the route of the excel, in this case I will load the Accounting plan information.
-
-![image](https://user-images.githubusercontent.com/20979227/230802419-56fc3629-077c-4020-aca6-a8bad7b87a7c.png)
-
-Load the excel page:
-
-![image](https://user-images.githubusercontent.com/20979227/230802508-21455c1d-254a-4b1f-bf73-298960d5ae5f.png)
-
-After that I should specify that the file contains the headers, so I check "Header"
-
-![image](https://user-images.githubusercontent.com/20979227/230802563-4d5a1bb0-3e6f-4a07-9ced-e9f02833e970.png)
-
-Then if I search on "Fields" sheet I can see the headers of the file:
-
-![image](https://user-images.githubusercontent.com/20979227/230802578-0cdcfebd-00e9-4fba-9ff5-e60c13dbf097.png)
-
-And then if I click on "Preview rows" button I see the information from the excel:
-
-![image](https://user-images.githubusercontent.com/20979227/230802617-32ba4cb2-f699-43ee-b0cb-3690b16b5ff2.png)
-
-The information:
-
-![image](https://user-images.githubusercontent.com/20979227/230802692-d1027053-c848-4faf-a33d-0302a8b94bf7.png)
-
-Once I finished I need to create an incremental ID for the each item in the "Plan de cuentas", to do this, I will need to add a component Secuence.
-
-![image](https://user-images.githubusercontent.com/20979227/231904660-4c51a141-4f38-46ed-81c5-91f89b8b5009.png)
-
-I indicate that it stats with 1 and increment by 1.
-
-After run I have the items with their corresponding Id.
-
-![image](https://user-images.githubusercontent.com/20979227/231904738-a1eebcc2-20c3-4928-b45e-3c5bf516fa6f.png)
-
-
-
+![image](https://user-images.githubusercontent.com/20979227/232319410-8f944ef7-4920-424e-86de-fb673d74f5cc.png)
 
