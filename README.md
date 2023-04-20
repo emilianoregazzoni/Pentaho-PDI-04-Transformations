@@ -24,3 +24,9 @@ Here I post some pictures about the final ETL jobs.
 ![image](https://user-images.githubusercontent.com/20979227/233498284-513dbfc4-d518-45c6-a3c6-71e48cc9334d.png)
 
 
+![image](https://user-images.githubusercontent.com/20979227/233501520-aaf29520-cc2c-4dab-89c7-8d16af818f9e.png)
+
+![image](https://user-images.githubusercontent.com/20979227/233502385-aa61ad59-5694-488a-9abd-bd6dfe9c809c.png)
+
+
+
